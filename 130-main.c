@@ -48,4 +48,3 @@ int main(void)
     heap = binary_tree_is_heap(root);
     printf("Is %d heap: %d\n", root->n, heap);
     return (0);
-}
